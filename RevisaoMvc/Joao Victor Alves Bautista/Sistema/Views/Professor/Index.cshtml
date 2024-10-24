@@ -1,0 +1,84 @@
+﻿﻿@{
+    ViewData["Title"] = "Principal";
+}
+'
+
+@if (ViewBag.NomeProfessor == null)
+{
+    <a asp-controller="Login">Login</a>
+}
+else
+{
+
+
+    <div class=" w-100 align-items-end d-flex flex-column">
+        <button class="btn btn-outline-primary" type="button" data-bs-toggle="modal" data-bs-target="#cadastrarTurma">Cadastrar Turma</button>
+    </div>
+
+    <h2>Sua lista de turmas</h2>
+
+    @*tabela *@
+    <table class="table table-bordered-black">
+        @* Cabeçalho da tabela *@
+        <thead class="thead-light">
+            <tr>
+                <th class="p-3">Número</th>
+                <th class="p-3">Nome</th>
+                <th class="p-3">Ação</th>
+            </tr>
+        </thead>
+
+        @* Corpo da tabela *@
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td class="p-3">@item.TurmaId</td>
+                    <td class="p-3">@item.Nome</td>
+                    <td class="p-3">
+                        <form asp-controller="Professor" asp-action="ExcluirTurma" onsubmit="return confirm('Você tem certeza que deseja excluir esta turma?')" style="display: inline;" class="me-3">
+                            <input type="hidden" name="turmaId" value="@item.TurmaId" />
+                            <button type="submit" class="btn btn-link text-danger">Excluir</button>
+                        </form>
+
+                        <form asp-controller="Atividade" asp-action="Index" asp-route-turmaId="@item.TurmaId" style="display: inline;">
+                            <input type="hidden" name="turmaId" value="@item.TurmaId" />
+                            <button type="submit" class="btn btn-link text-success">Visualizar</button>
+                        </form>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+
+
+
+    @if (TempData["Mensagem"] != null)
+    {
+        <p style="color:red">@TempData["Mensagem"]</p>
+    }
+
+    <!-- Modal -->
+    <div class="modal fade" id="cadastrarTurma" tabindex="-1" aria-labelledby="cadastrarTurma" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h1 class="modal-title fs-5" id="cadastrarTurmaLabel">Cadastrar Turma</h1>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <form asp-controller="Professor" asp-action="CadastrarTurma">
+                    <div class="modal-body">
+                        <label class="form-label">Nome da Turma</label>
+                        <input type="text" name="nomeTurma" class="form-control" required />
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancelar</button>
+                        <button type="submit" class="btn btn-primary">Confirmar</button>
+                    </div>
+
+                </form>
+            </div>
+        </div>
+    </div>
+}

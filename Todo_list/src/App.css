@@ -1,0 +1,75 @@
+/* Estilos gerais para a página */
+body {
+  margin: 0;
+  font-family: 'Open Sans', sans-serif;
+  background-color: #6b47dc; /* Cor de fundo principal */
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* Altura da página cheia */
+}
+
+/* Estilos para o componente principal da aplicação */
+.app {
+  background-color: #2f1856; /* Cor de fundo do contêiner */
+  padding: 20px;
+  border-radius: 10px;
+  width: 400px;
+  text-align: center;
+}
+
+/* Estilos para o título */
+h1 {
+  margin-bottom: 20px;
+}
+
+/* Estilos para o campo de input e o botão de adicionar tarefa */
+.task-input {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.task-input input {
+  padding: 10px;
+  width: 70%;
+  border: none;
+  border-radius: 5px;
+}
+
+.task-input button {
+  padding: 10px;
+  margin-left: 10px;
+  background-color: #7b61ff; /* Cor do botão */
+  border: none;
+  border-radius: 5px;
+  color: white;
+  cursor: pointer;
+}
+
+/* Estilos para a lista de tarefas */
+.tasks-list {
+  text-align: left;
+}
+
+/* Estilos para cada item da lista de tarefas */
+.task-item {
+  background-color: #4b288c; /* Cor de fundo de cada item */
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+/* Estilos para o botão de excluir tarefa */
+.task-item button {
+  background-color: #ff4d4d; /* Cor do botão de excluir */
+  border: none;
+  border-radius: 5px;
+  padding: 5px 10px;
+  color: white;
+  cursor: pointer;
+}

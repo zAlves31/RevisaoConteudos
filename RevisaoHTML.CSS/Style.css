@@ -1,0 +1,216 @@
+.azul {
+    color: #002777; /* Escolha a cor que desejar */
+}
+.verde {
+    color: #009538; /* Escolha a cor que desejar */
+}
+.amarelo {
+    color: #FFDF00; /* Escolha a cor que desejar */
+}
+
+
+body {
+    font-family: 'Lato', sans-serif;
+    
+}
+
+.Inicio{
+    background: linear-gradient(to bottom right, #1E52B4, #002777);
+    height: 560px;
+}
+  
+
+.logo{
+    margin-right: 45%;
+}
+
+.menu-bar {
+    height: 140px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    padding: 0 5%;
+    
+}
+
+.menu-bar ul li a {
+    font-size: 20px;
+    color: #fff3;
+    text-decoration: none;
+    transition: all 0.3s;
+}
+
+.menu-bar ul li a:hover {
+    color:#ffffff;
+}
+
+.menu-bar-desktop ul {
+    display: flex;  
+    list-style: none;  
+    
+}
+
+
+
+.menu-bar ul li {
+    margin: 0 15px; 
+}
+
+
+.menu-bar ul li button {
+    background-color: transparent; 
+    color: #fff3;
+    border: 1px solid white; 
+    font-size: 16px; 
+    cursor: pointer; 
+    transition: all 0.3s ease; 
+    border-radius: 8px;
+    width: 151px;
+    height: 35px;
+    top: 22px;
+    
+
+}
+
+.menu-bar ul li button:hover {
+    background-color: white; 
+    color: #1E52B4; 
+}
+
+.search-box {
+    width: 60%;
+    height: 60px;
+    background-color: #ffffff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+}
+
+
+.Inicio .search-box {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 20px;
+    padding-bottom: 30px;
+    margin-left: 20%;
+}
+
+.Inicio .search-box input, 
+.Inicio .search-box button {
+    padding: 15px;
+    border: none;
+    border-radius: 5px;
+    margin-top: 15px;
+}
+
+.Inicio .search-box button {
+    background-color: #28a745;
+    color: #fff;
+    cursor: pointer;
+    font-weight: 700;
+}
+
+/* Catalogo */
+
+.catalogo {
+    display: flex;
+    flex-wrap: wrap; 
+    gap: 20px; 
+    justify-content: space-between; 
+    margin-top: 60px;
+    margin-left: 4%;
+}
+
+.viagem {
+    flex: 1 1 calc(25% - 16px); 
+    box-sizing: border-box; 
+}
+
+
+.viagem img {
+    height: 173px;
+    width: 260px;
+    border-radius: 10px;
+}
+
+.viagem h5 {
+    font-size: 16px;
+}
+
+.viagem p {
+    font-size: 12px;
+    overflow-wrap: break-word; 
+    max-width: 70%; 
+}
+
+
+/* Introducao */
+.Introducao {
+    display: flex;
+    align-items: center; 
+    justify-content: space-between; 
+}
+
+.texto {
+    max-width: 40%; 
+    margin-left: 5%;
+    color: #ffffff;
+    
+}
+
+.mapa {
+    max-width: 35%; /* Define uma largura máxima para a imagem, ajustável conforme necessário */
+}
+
+
+/* Informacoes */
+.informacoes {
+    background: linear-gradient(to bottom right, #009C3B, #009538);
+    height: 163px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.informacoes h1, .informacoes h4 {
+    color: #ffffff;
+    margin: 0; 
+    text-align: center; 
+}
+
+/* apresentacao */
+
+.apresentacao {
+    display: flex;
+    align-items: center; 
+    justify-content: space-between; 
+    height: 400px;
+}
+
+.textoapresentacao {
+    max-width: 40%; 
+    margin-left: 5%;
+    color: #000000; 
+}
+
+.mapa {
+    max-width: 35%; 
+    margin-right: 3%;
+}
+
+/* Footer */
+.bottom-bar{
+    border-top: 1px solid var(--color-verde-claro);
+    background:#FFDF00;
+    text-align: center;
+    height: 50px;
+    width: 100%;
+}
+
+.logoFooter{
+    width:133 ;
+    height: 20;
+    padding: 15px;
+}
+

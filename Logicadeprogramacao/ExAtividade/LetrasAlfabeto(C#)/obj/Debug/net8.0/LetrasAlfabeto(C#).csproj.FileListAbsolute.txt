@@ -1,0 +1,14 @@
+C:\Users\52546124870\Desktop\LogicaDeProgramacaoRevisao\ExAtividade\LetrasAlfabeto(C#)\bin\Debug\net8.0\LetrasAlfabeto(C#).exe
+C:\Users\52546124870\Desktop\LogicaDeProgramacaoRevisao\ExAtividade\LetrasAlfabeto(C#)\bin\Debug\net8.0\LetrasAlfabeto(C#).deps.json
+C:\Users\52546124870\Desktop\LogicaDeProgramacaoRevisao\ExAtividade\LetrasAlfabeto(C#)\bin\Debug\net8.0\LetrasAlfabeto(C#).runtimeconfig.json
+C:\Users\52546124870\Desktop\LogicaDeProgramacaoRevisao\ExAtividade\LetrasAlfabeto(C#)\bin\Debug\net8.0\LetrasAlfabeto(C#).dll
+C:\Users\52546124870\Desktop\LogicaDeProgramacaoRevisao\ExAtividade\LetrasAlfabeto(C#)\bin\Debug\net8.0\LetrasAlfabeto(C#).pdb
+C:\Users\52546124870\Desktop\LogicaDeProgramacaoRevisao\ExAtividade\LetrasAlfabeto(C#)\obj\Debug\net8.0\LetrasAlfabeto(C#).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\52546124870\Desktop\LogicaDeProgramacaoRevisao\ExAtividade\LetrasAlfabeto(C#)\obj\Debug\net8.0\LetrasAlfabeto(C#).AssemblyInfoInputs.cache
+C:\Users\52546124870\Desktop\LogicaDeProgramacaoRevisao\ExAtividade\LetrasAlfabeto(C#)\obj\Debug\net8.0\LetrasAlfabeto(C#).AssemblyInfo.cs
+C:\Users\52546124870\Desktop\LogicaDeProgramacaoRevisao\ExAtividade\LetrasAlfabeto(C#)\obj\Debug\net8.0\LetrasAlfabeto(C#).csproj.CoreCompileInputs.cache
+C:\Users\52546124870\Desktop\LogicaDeProgramacaoRevisao\ExAtividade\LetrasAlfabeto(C#)\obj\Debug\net8.0\LetrasAlfabeto(C#).dll
+C:\Users\52546124870\Desktop\LogicaDeProgramacaoRevisao\ExAtividade\LetrasAlfabeto(C#)\obj\Debug\net8.0\refint\LetrasAlfabeto(C#).dll
+C:\Users\52546124870\Desktop\LogicaDeProgramacaoRevisao\ExAtividade\LetrasAlfabeto(C#)\obj\Debug\net8.0\LetrasAlfabeto(C#).pdb
+C:\Users\52546124870\Desktop\LogicaDeProgramacaoRevisao\ExAtividade\LetrasAlfabeto(C#)\obj\Debug\net8.0\LetrasAlfabeto(C#).genruntimeconfig.cache
+C:\Users\52546124870\Desktop\LogicaDeProgramacaoRevisao\ExAtividade\LetrasAlfabeto(C#)\obj\Debug\net8.0\ref\LetrasAlfabeto(C#).dll

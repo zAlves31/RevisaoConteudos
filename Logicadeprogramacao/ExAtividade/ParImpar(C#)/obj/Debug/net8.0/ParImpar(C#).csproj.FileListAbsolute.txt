@@ -1,0 +1,14 @@
+C:\Users\52546124870\Desktop\Revisao\ExAtividade\ParImpar(C#)\obj\Debug\net8.0\ParImpar(C#).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\52546124870\Desktop\Revisao\ExAtividade\ParImpar(C#)\obj\Debug\net8.0\ParImpar(C#).AssemblyInfoInputs.cache
+C:\Users\52546124870\Desktop\Revisao\ExAtividade\ParImpar(C#)\obj\Debug\net8.0\ParImpar(C#).AssemblyInfo.cs
+C:\Users\52546124870\Desktop\Revisao\ExAtividade\ParImpar(C#)\obj\Debug\net8.0\ParImpar(C#).csproj.CoreCompileInputs.cache
+C:\Users\52546124870\Desktop\Revisao\ExAtividade\ParImpar(C#)\bin\Debug\net8.0\ParImpar(C#).exe
+C:\Users\52546124870\Desktop\Revisao\ExAtividade\ParImpar(C#)\bin\Debug\net8.0\ParImpar(C#).deps.json
+C:\Users\52546124870\Desktop\Revisao\ExAtividade\ParImpar(C#)\bin\Debug\net8.0\ParImpar(C#).runtimeconfig.json
+C:\Users\52546124870\Desktop\Revisao\ExAtividade\ParImpar(C#)\bin\Debug\net8.0\ParImpar(C#).dll
+C:\Users\52546124870\Desktop\Revisao\ExAtividade\ParImpar(C#)\bin\Debug\net8.0\ParImpar(C#).pdb
+C:\Users\52546124870\Desktop\Revisao\ExAtividade\ParImpar(C#)\obj\Debug\net8.0\ParImpar(C#).dll
+C:\Users\52546124870\Desktop\Revisao\ExAtividade\ParImpar(C#)\obj\Debug\net8.0\refint\ParImpar(C#).dll
+C:\Users\52546124870\Desktop\Revisao\ExAtividade\ParImpar(C#)\obj\Debug\net8.0\ParImpar(C#).pdb
+C:\Users\52546124870\Desktop\Revisao\ExAtividade\ParImpar(C#)\obj\Debug\net8.0\ParImpar(C#).genruntimeconfig.cache
+C:\Users\52546124870\Desktop\Revisao\ExAtividade\ParImpar(C#)\obj\Debug\net8.0\ref\ParImpar(C#).dll

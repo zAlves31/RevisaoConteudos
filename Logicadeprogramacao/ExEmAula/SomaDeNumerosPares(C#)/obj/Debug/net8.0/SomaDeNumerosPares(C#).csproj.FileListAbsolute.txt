@@ -1,0 +1,14 @@
+C:\Users\52546124870\Desktop\Revisao\SomaDeNumerosPares(C#)\obj\Debug\net8.0\SomaDeNumerosPares(C#).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\52546124870\Desktop\Revisao\SomaDeNumerosPares(C#)\obj\Debug\net8.0\SomaDeNumerosPares(C#).AssemblyInfoInputs.cache
+C:\Users\52546124870\Desktop\Revisao\SomaDeNumerosPares(C#)\obj\Debug\net8.0\SomaDeNumerosPares(C#).AssemblyInfo.cs
+C:\Users\52546124870\Desktop\Revisao\SomaDeNumerosPares(C#)\obj\Debug\net8.0\SomaDeNumerosPares(C#).csproj.CoreCompileInputs.cache
+C:\Users\52546124870\Desktop\Revisao\SomaDeNumerosPares(C#)\bin\Debug\net8.0\SomaDeNumerosPares(C#).exe
+C:\Users\52546124870\Desktop\Revisao\SomaDeNumerosPares(C#)\bin\Debug\net8.0\SomaDeNumerosPares(C#).deps.json
+C:\Users\52546124870\Desktop\Revisao\SomaDeNumerosPares(C#)\bin\Debug\net8.0\SomaDeNumerosPares(C#).runtimeconfig.json
+C:\Users\52546124870\Desktop\Revisao\SomaDeNumerosPares(C#)\bin\Debug\net8.0\SomaDeNumerosPares(C#).dll
+C:\Users\52546124870\Desktop\Revisao\SomaDeNumerosPares(C#)\bin\Debug\net8.0\SomaDeNumerosPares(C#).pdb
+C:\Users\52546124870\Desktop\Revisao\SomaDeNumerosPares(C#)\obj\Debug\net8.0\SomaDeNumerosPares(C#).dll
+C:\Users\52546124870\Desktop\Revisao\SomaDeNumerosPares(C#)\obj\Debug\net8.0\refint\SomaDeNumerosPares(C#).dll
+C:\Users\52546124870\Desktop\Revisao\SomaDeNumerosPares(C#)\obj\Debug\net8.0\SomaDeNumerosPares(C#).pdb
+C:\Users\52546124870\Desktop\Revisao\SomaDeNumerosPares(C#)\obj\Debug\net8.0\SomaDeNumerosPares(C#).genruntimeconfig.cache
+C:\Users\52546124870\Desktop\Revisao\SomaDeNumerosPares(C#)\obj\Debug\net8.0\ref\SomaDeNumerosPares(C#).dll

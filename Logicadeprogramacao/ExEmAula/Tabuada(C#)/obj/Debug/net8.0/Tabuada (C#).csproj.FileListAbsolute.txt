@@ -1,0 +1,28 @@
+C:\Users\52546124870\Desktop\Revisao\Tabuada (C#)\obj\Debug\net8.0\Tabuada (C#).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\52546124870\Desktop\Revisao\Tabuada (C#)\obj\Debug\net8.0\Tabuada (C#).AssemblyInfoInputs.cache
+C:\Users\52546124870\Desktop\Revisao\Tabuada (C#)\obj\Debug\net8.0\Tabuada (C#).AssemblyInfo.cs
+C:\Users\52546124870\Desktop\Revisao\Tabuada (C#)\obj\Debug\net8.0\Tabuada (C#).csproj.CoreCompileInputs.cache
+C:\Users\52546124870\Desktop\Revisao\Tabuada (C#)\bin\Debug\net8.0\Tabuada (C#).exe
+C:\Users\52546124870\Desktop\Revisao\Tabuada (C#)\bin\Debug\net8.0\Tabuada (C#).deps.json
+C:\Users\52546124870\Desktop\Revisao\Tabuada (C#)\bin\Debug\net8.0\Tabuada (C#).runtimeconfig.json
+C:\Users\52546124870\Desktop\Revisao\Tabuada (C#)\bin\Debug\net8.0\Tabuada (C#).dll
+C:\Users\52546124870\Desktop\Revisao\Tabuada (C#)\bin\Debug\net8.0\Tabuada (C#).pdb
+C:\Users\52546124870\Desktop\Revisao\Tabuada (C#)\obj\Debug\net8.0\Tabuada (C#).dll
+C:\Users\52546124870\Desktop\Revisao\Tabuada (C#)\obj\Debug\net8.0\refint\Tabuada (C#).dll
+C:\Users\52546124870\Desktop\Revisao\Tabuada (C#)\obj\Debug\net8.0\Tabuada (C#).pdb
+C:\Users\52546124870\Desktop\Revisao\Tabuada (C#)\obj\Debug\net8.0\Tabuada (C#).genruntimeconfig.cache
+C:\Users\52546124870\Desktop\Revisao\Tabuada (C#)\obj\Debug\net8.0\ref\Tabuada (C#).dll
+C:\Users\52546124870\Desktop\Revisao\Tabuada(C#)\bin\Debug\net8.0\Tabuada (C#).exe
+C:\Users\52546124870\Desktop\Revisao\Tabuada(C#)\bin\Debug\net8.0\Tabuada (C#).deps.json
+C:\Users\52546124870\Desktop\Revisao\Tabuada(C#)\bin\Debug\net8.0\Tabuada (C#).runtimeconfig.json
+C:\Users\52546124870\Desktop\Revisao\Tabuada(C#)\bin\Debug\net8.0\Tabuada (C#).dll
+C:\Users\52546124870\Desktop\Revisao\Tabuada(C#)\bin\Debug\net8.0\Tabuada (C#).pdb
+C:\Users\52546124870\Desktop\Revisao\Tabuada(C#)\obj\Debug\net8.0\Tabuada (C#).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\52546124870\Desktop\Revisao\Tabuada(C#)\obj\Debug\net8.0\Tabuada (C#).AssemblyInfoInputs.cache
+C:\Users\52546124870\Desktop\Revisao\Tabuada(C#)\obj\Debug\net8.0\Tabuada (C#).AssemblyInfo.cs
+C:\Users\52546124870\Desktop\Revisao\Tabuada(C#)\obj\Debug\net8.0\Tabuada (C#).csproj.CoreCompileInputs.cache
+C:\Users\52546124870\Desktop\Revisao\Tabuada(C#)\obj\Debug\net8.0\Tabuada (C#).dll
+C:\Users\52546124870\Desktop\Revisao\Tabuada(C#)\obj\Debug\net8.0\refint\Tabuada (C#).dll
+C:\Users\52546124870\Desktop\Revisao\Tabuada(C#)\obj\Debug\net8.0\Tabuada (C#).pdb
+C:\Users\52546124870\Desktop\Revisao\Tabuada(C#)\obj\Debug\net8.0\Tabuada (C#).genruntimeconfig.cache
+C:\Users\52546124870\Desktop\Revisao\Tabuada(C#)\obj\Debug\net8.0\ref\Tabuada (C#).dll

@@ -1,0 +1,14 @@
+C:\Users\52546124870\Desktop\Revisao\ExAtividade\SomaNumerosPares(C#)\bin\Debug\net8.0\SomaNumerosPares(C#).exe
+C:\Users\52546124870\Desktop\Revisao\ExAtividade\SomaNumerosPares(C#)\bin\Debug\net8.0\SomaNumerosPares(C#).deps.json
+C:\Users\52546124870\Desktop\Revisao\ExAtividade\SomaNumerosPares(C#)\bin\Debug\net8.0\SomaNumerosPares(C#).runtimeconfig.json
+C:\Users\52546124870\Desktop\Revisao\ExAtividade\SomaNumerosPares(C#)\bin\Debug\net8.0\SomaNumerosPares(C#).dll
+C:\Users\52546124870\Desktop\Revisao\ExAtividade\SomaNumerosPares(C#)\bin\Debug\net8.0\SomaNumerosPares(C#).pdb
+C:\Users\52546124870\Desktop\Revisao\ExAtividade\SomaNumerosPares(C#)\obj\Debug\net8.0\SomaNumerosPares(C#).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\52546124870\Desktop\Revisao\ExAtividade\SomaNumerosPares(C#)\obj\Debug\net8.0\SomaNumerosPares(C#).AssemblyInfoInputs.cache
+C:\Users\52546124870\Desktop\Revisao\ExAtividade\SomaNumerosPares(C#)\obj\Debug\net8.0\SomaNumerosPares(C#).AssemblyInfo.cs
+C:\Users\52546124870\Desktop\Revisao\ExAtividade\SomaNumerosPares(C#)\obj\Debug\net8.0\SomaNumerosPares(C#).csproj.CoreCompileInputs.cache
+C:\Users\52546124870\Desktop\Revisao\ExAtividade\SomaNumerosPares(C#)\obj\Debug\net8.0\SomaNumerosPares(C#).dll
+C:\Users\52546124870\Desktop\Revisao\ExAtividade\SomaNumerosPares(C#)\obj\Debug\net8.0\refint\SomaNumerosPares(C#).dll
+C:\Users\52546124870\Desktop\Revisao\ExAtividade\SomaNumerosPares(C#)\obj\Debug\net8.0\SomaNumerosPares(C#).pdb
+C:\Users\52546124870\Desktop\Revisao\ExAtividade\SomaNumerosPares(C#)\obj\Debug\net8.0\SomaNumerosPares(C#).genruntimeconfig.cache
+C:\Users\52546124870\Desktop\Revisao\ExAtividade\SomaNumerosPares(C#)\obj\Debug\net8.0\ref\SomaNumerosPares(C#).dll

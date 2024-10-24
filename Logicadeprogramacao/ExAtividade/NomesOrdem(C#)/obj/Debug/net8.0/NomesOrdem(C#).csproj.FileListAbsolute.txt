@@ -1,0 +1,14 @@
+C:\Users\52546124870\Desktop\Revisao\ExAtividade\NomesOrdem(C#)\bin\Debug\net8.0\NomesOrdem(C#).exe
+C:\Users\52546124870\Desktop\Revisao\ExAtividade\NomesOrdem(C#)\bin\Debug\net8.0\NomesOrdem(C#).deps.json
+C:\Users\52546124870\Desktop\Revisao\ExAtividade\NomesOrdem(C#)\bin\Debug\net8.0\NomesOrdem(C#).runtimeconfig.json
+C:\Users\52546124870\Desktop\Revisao\ExAtividade\NomesOrdem(C#)\bin\Debug\net8.0\NomesOrdem(C#).dll
+C:\Users\52546124870\Desktop\Revisao\ExAtividade\NomesOrdem(C#)\bin\Debug\net8.0\NomesOrdem(C#).pdb
+C:\Users\52546124870\Desktop\Revisao\ExAtividade\NomesOrdem(C#)\obj\Debug\net8.0\NomesOrdem(C#).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\52546124870\Desktop\Revisao\ExAtividade\NomesOrdem(C#)\obj\Debug\net8.0\NomesOrdem(C#).AssemblyInfoInputs.cache
+C:\Users\52546124870\Desktop\Revisao\ExAtividade\NomesOrdem(C#)\obj\Debug\net8.0\NomesOrdem(C#).AssemblyInfo.cs
+C:\Users\52546124870\Desktop\Revisao\ExAtividade\NomesOrdem(C#)\obj\Debug\net8.0\NomesOrdem(C#).csproj.CoreCompileInputs.cache
+C:\Users\52546124870\Desktop\Revisao\ExAtividade\NomesOrdem(C#)\obj\Debug\net8.0\NomesOrdem(C#).dll
+C:\Users\52546124870\Desktop\Revisao\ExAtividade\NomesOrdem(C#)\obj\Debug\net8.0\refint\NomesOrdem(C#).dll
+C:\Users\52546124870\Desktop\Revisao\ExAtividade\NomesOrdem(C#)\obj\Debug\net8.0\NomesOrdem(C#).pdb
+C:\Users\52546124870\Desktop\Revisao\ExAtividade\NomesOrdem(C#)\obj\Debug\net8.0\NomesOrdem(C#).genruntimeconfig.cache
+C:\Users\52546124870\Desktop\Revisao\ExAtividade\NomesOrdem(C#)\obj\Debug\net8.0\ref\NomesOrdem(C#).dll

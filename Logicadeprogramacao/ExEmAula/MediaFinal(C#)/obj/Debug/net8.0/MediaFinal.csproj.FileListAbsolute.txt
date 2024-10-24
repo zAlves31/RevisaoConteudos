@@ -1,0 +1,14 @@
+C:\Users\52546124870\Desktop\MediaFinal\bin\Debug\net8.0\MediaFinal.exe
+C:\Users\52546124870\Desktop\MediaFinal\bin\Debug\net8.0\MediaFinal.deps.json
+C:\Users\52546124870\Desktop\MediaFinal\bin\Debug\net8.0\MediaFinal.runtimeconfig.json
+C:\Users\52546124870\Desktop\MediaFinal\bin\Debug\net8.0\MediaFinal.dll
+C:\Users\52546124870\Desktop\MediaFinal\bin\Debug\net8.0\MediaFinal.pdb
+C:\Users\52546124870\Desktop\MediaFinal\obj\Debug\net8.0\MediaFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\52546124870\Desktop\MediaFinal\obj\Debug\net8.0\MediaFinal.AssemblyInfoInputs.cache
+C:\Users\52546124870\Desktop\MediaFinal\obj\Debug\net8.0\MediaFinal.AssemblyInfo.cs
+C:\Users\52546124870\Desktop\MediaFinal\obj\Debug\net8.0\MediaFinal.csproj.CoreCompileInputs.cache
+C:\Users\52546124870\Desktop\MediaFinal\obj\Debug\net8.0\MediaFinal.dll
+C:\Users\52546124870\Desktop\MediaFinal\obj\Debug\net8.0\refint\MediaFinal.dll
+C:\Users\52546124870\Desktop\MediaFinal\obj\Debug\net8.0\MediaFinal.pdb
+C:\Users\52546124870\Desktop\MediaFinal\obj\Debug\net8.0\MediaFinal.genruntimeconfig.cache
+C:\Users\52546124870\Desktop\MediaFinal\obj\Debug\net8.0\ref\MediaFinal.dll
