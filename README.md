@@ -6,6 +6,7 @@ Este repositório contém material de revisão para diversos tópicos fundamenta
 
 - [HTML](#html)
 - [CSS](#css)
+- [JavaScript](#javascript)
 - [MVC](#mvc)
 - [Banco de Dados](#banco-de-dados)
 - [Lógica de Programação](#logica-de-programacao)
